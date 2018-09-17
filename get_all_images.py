@@ -4,10 +4,10 @@ import requests
 import urllib
 
 #input keys and secret keys  
-consumer_key = 'eIdSVPYAdVOSy3aCluX9P9P97'  
-consumer_secret = 'EZpKmpK6RpyOSoLEHAubZBh3hud0bZucjIS8WFGR1ISEjT7vhy'  
-access_key = '1038545947972780032-viHFmLkInLs79xOxatMU19qcG4SfTh'  
-access_secret = '2L6m6hxXwkTgFOYg15SJ1nBe9yxMoPMUY1lHgnIt4JpBO'  
+consumer_key = 'xxxxxxxxxxxxxxxxxxxxxx'  
+consumer_secret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'  
+access_key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'  
+access_secret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'  
   
 # upload keys and secret keys
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)  
