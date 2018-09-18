@@ -1,1 +1,1 @@
-# Tangzy1
+run 'run app.sh' in the terminal with the screen name of the user you want to check as a parameter,and the output is a video combined with the first 10 photos the user posted, and the labels of each photo. 
