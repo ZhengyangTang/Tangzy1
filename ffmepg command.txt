@@ -1,1 +1,1 @@
-ffmpeg -r 1 -i c:\EC601\EC601_IMAGES\0%d.jpg test1.mp4
+ffmpeg -r 1 -i c:\0%d.jpg video1.mp4
